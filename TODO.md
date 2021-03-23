@@ -2,5 +2,5 @@ To Do
 
 - Expense Tracker
 - Task Scheduler
-- Bookmark
+- Bookmarks
 - Ecommerce
